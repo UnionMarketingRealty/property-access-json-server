@@ -11,6 +11,6 @@
   "license": "ISC",
   "description": "This is the json server fake backend and have the api folder here for deploy",
   "devDependencies": {
-    "json-server": "^1.0.0-beta.3"
+    "json-server": "^0.17.4"
   }
 }

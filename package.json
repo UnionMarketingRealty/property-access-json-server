@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "description": "This is the json server fake backend and have the api folder here for deploy",
-  "dependencies": {
+  "devDependencies": {
     "json-server": "^1.0.0-beta.3"
   }
 }

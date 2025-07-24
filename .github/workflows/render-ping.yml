@@ -14,4 +14,4 @@ jobs:
 
     steps:
       - name: Run cURL on Website
-        run: curl -I WEBSITE_URL
+        run: curl -I https://property-access-json-server.onrender.com/

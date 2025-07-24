@@ -1,5 +1,6 @@
 
 # Simulated daily request to your render project so that the service doesn't go down
+# why is it not working?
 name: 10min render ping
 
 on:
